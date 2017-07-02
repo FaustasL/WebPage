@@ -1,0 +1,43 @@
+body {
+		background-color: lightgrey;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 3em;
+	font-size: 70px;
+}
+
+h2 {
+	text-align: center;
+}
+
+a {
+	padding: 10px;
+	border: 1px silver;
+	border-style: solid;
+	box-shadow: 0 0 10px grey;
+	border-radius: 10px;
+	margin: 5px;
+	text-decoration: none;
+	color: black;
+	background-color: skyblue;
+}
+
+a:hover {
+	color: grey;
+}
+
+p {
+	text-align: center;
+	margin-bottom: 3.5em;
+	font-size: 20px;
+}
+
+img {
+	position: relative;
+	left: 970px;
+	bottom: 370px;
+	height: 400px;
+	width: 300px;
+}
